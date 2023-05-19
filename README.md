@@ -11,5 +11,6 @@ ChatGPT can be a valuable tool for both finding errors in your own code and quic
 
 In any case, if you’re looking for a way to get your coding projects done 20 times faster, here are some of the best Chat GPT coding prompts you’ll find.
 
-[100+ Coding Prompts For Chat GPT](best-coding-prompts.md)
+- [100+ Coding Prompts For Chat GPT](best-coding-prompts.md)
+- [100+ ChatGPT Prompts For SEO](100-best-chat-gpt-prompts-for-seo-2023.md)
 
